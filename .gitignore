@@ -1,0 +1,12 @@
+# reclient binaries are ~350 MB and are NOT shipped in this repo.
+# Place your own linux-amd64 client here (see README step 1).
+/rbe-client/
+
+# Nested tutorial clone, not part of this project.
+/tutorial/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
+*~
